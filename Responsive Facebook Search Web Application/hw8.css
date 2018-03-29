@@ -1,0 +1,139 @@
+
+            .nextprev{
+                margin-right:30px;
+                height:40px;
+                width:90px;
+                background-color:white;
+                border-radius:5px;
+            }
+
+			
+			
+            .dispNone{
+                display:none;
+            }
+
+            .inputTextClass{
+                min-width:100%;
+                border-radius:0px;
+            }
+
+            .fbheader
+            {
+                font-size: 19px;
+                padding:17px;
+            }
+
+            .slidingAnimations {
+                padding:10px;
+                left: 0;
+                -webkit-transition:all cubic-bezier(0.250, 0.460, 0.450, 0.940) 1s;
+                transition:all cubic-bezier(0.250, 0.460, 0.450, 0.940) 1s;
+                background:white;
+                position: absolute;
+                -moz-transition:all cubic-bezier(0.250, 0.460, 0.450, 0.940) 1s;
+                -o-transition:all cubic-bezier(0.250, 0.460, 0.450, 0.940) 1s;
+                line-height:20px;
+                opacity:1;
+            }
+
+            .clearBtnClass{
+                color:#3b5998; 
+                background-color:white;
+                border: 2px solid #3b5998;
+                border-radius:0px;
+            }
+
+            .slidingAnimations.ng-hide {
+                left: -300%;
+                opacity:0;
+                padding:0 5px;
+            }               
+
+
+            .detailsBtnIdent{
+
+            }
+
+            .divColFormClass{
+                background-color: #f7f7f7; 
+                height:70px; 
+                padding-left:15px; 
+                color:#3b5998;
+                padding-top:20px; 
+                padding-bottom:20px;
+
+            }
+
+            .divClassClearbtn{
+                background-color: RGB(247,247,247); 
+                height:70px; 
+                padding-top:20px;
+                padding-bottom:20px;
+                padding-left:15px; 
+                color:#3b5998;
+                font-size:20px;		
+            }
+
+
+            .paddingMarginTopClass{
+                margin-top:0px;
+                padding-top:0px;
+            }
+
+			#prevButton{
+                margin-right:30px;
+                height:40px;
+                width:90px;
+                background-color:white;
+                border-radius:5px;
+            }
+			
+			#nextButton{
+                margin-right:30px;
+                height:40px;
+                width:90px;
+                background-color:white;
+                border-radius:5px;
+            }
+			
+            .navBarNewClass{
+                background-color:white;
+                border-bottom: 3px #3b5998 solid;
+            }
+
+            .fullWidth{
+                width:100%;
+            }
+
+            
+            body {
+                overflow-x: hidden;
+            }
+
+
+           
+
+            input-group input-group-btn btn-group btn{
+                border-radius:0px;
+            }
+
+            #Navtabs ul li{
+                padding-right:0px;
+                text-align:center;
+                padding-left:0px;
+            }
+
+
+            #Navtabs ul >.active a{
+                color:white;
+                background-color:RGB(51,122,183);
+            }
+			
+			#Navtabs ul >.active a:hover,#Navtabs ul >.active a:focus {
+			 color:white;
+                background-color:RGB(51,122,183);
+
+			}
+
+        
